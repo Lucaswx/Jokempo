@@ -1,0 +1,2 @@
+rootProject.name='Final Jokenpô'
+include ':app'
